@@ -54,7 +54,7 @@
           <div class="card">
             <div class="card-body">
               <h5>基本資料</h5>
-              <p class="card-text">中文姓名： 周松韻 </p>
+              <p class="card-text">姓名： Amanda Chou </p>
               <p class="card-text">出生日期： 1991年09月10日 </p>
               <p class="card-text">婚姻狀況： 未婚 </p>
             </div>
@@ -72,7 +72,7 @@
         <div class="col-md-6 p-3">
           <div class="bg-primary card"> <img style="width:33%;" class="img-fluid mx-auto mt-3 rounded-circle" src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/28577077_1772163162846826_8708850445027430651_n.jpg?_nc_cat=102&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=61107513c950c715a29c6cb45ce1d970&amp;oe=5D873022" alt="Card image">
             <div class="card-body">
-              <h4 class="card-title">周松韻 Amanda Chou</h4>
+              <h4 class="card-title"> Amanda Chou</h4>
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@
           <h2 contenteditable="true" id="intro">自我介紹</h2>
           <hr>
           <p class="lead">我的個性</p>
-          <p>您好，我叫周松韻，在桃園長大，父母教育傳統且嚴謹，嚴厲與鼓勵給我升學時期很大的幫助，讓我養成從小就自我要求高的學習態度，使我個性刻苦耐勞、不易因為失敗受挫，道德觀念很重的家庭教育時常提醒我什麼是不該做的，在處理任何重要文件與專案申請時，均秉持嚴謹與專注的心。&nbsp;&nbsp;</p>
+          <p>您好，我叫Amanda Chou，在桃園長大，父母教育傳統且嚴謹，嚴厲與鼓勵給我升學時期很大的幫助，讓我養成從小就自我要求高的學習態度，使我個性刻苦耐勞、不易因為失敗受挫，道德觀念很重的家庭教育時常提醒我什麼是不該做的，在處理任何重要文件與專案申請時，均秉持嚴謹與專注的心。&nbsp;&nbsp;</p>
           <p class="lead">學習動機</p>
           <p>因從事工程師職業的朋友介紹，讓我認識了各種對初學者友善的線上學習管道(<a href="https://www.sololearn.com/">SoloLearn</a>、<a href="https://www.freecodecamp.org/">FreeCodeCamp</a>)，並意識到非本科系轉職工程師的可能，之後透過網路開始自學C#、JS、.Net Framwork，於線上解題系統培養了對程式語言學習的興趣，並從中獲得困難排除的成就感。&nbsp;</p>
           <p class="lead"> 感謝貴公司抽空閱讀我的履歷，希望能有機會為貴公司服務，我將盡我所能為貴公司效力</p>
